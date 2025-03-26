@@ -155,32 +155,6 @@
   btnWheel.addEventListener("click", () => {
     !isRotating && start();
   });
-  // const test = () => {
-  //   var count = 0,
-  //     countA = 0,
-  //     countB = 0,
-  //     countC = 0;
-  //   for (var i = 1; i < 10000; i++) {
-  //     var random = Math.random();
-  //     const gift_test = getGift(random);
-  //     if (gift_test.percent == 0.5) {
-  //       count++;
-  //     }
-  //     console.log(i + ". " + gift_test.text + ". " + gift_test.percent);
-  //     if (gift_test.percent == 0.25) {
-  //       countA++;
-  //     } else if (gift_test.percent == 0.0002) {
-  //       countB++;
-  //     } else if (gift_test.percent == 0.0001) {
-  //       countC++;
-  //     }
-  //   }
-  //   console.log(count);
-  //   console.log(countA);
-  //   console.log(countB);
-  //   console.log(countC);
-  // };
-  // test();
 // //Chống copy
 function killCopy(e) {
   return false;
