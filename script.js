@@ -12,43 +12,43 @@
   const listGift = [
     {
       text: "10.000 😘",
-      percent: 0 / 100,
+      percent: 50 / 100,
     },
     {
       text: "20.000 ✌🏻",
-      percent: 100 / 100,
+      percent: 25 / 100,
     },
     {
       text: "30.000 🥰",
-      percent: 0 / 100,
+      percent: 5 / 100,
     },
     {
       text: "20k+ 1 lượt quay 🥳",
-      percent: 0 / 100,
+      percent: 5 / 100,
     },
     {
       text: "x2 số tuổi 🫣",
-      percent: 0 / 100,
+      percent: 5 / 100,
     },
     {
       text: "x2 người trước",
-      percent: 0 / 100,
+      percent: 3 / 100,
     },
     {
       text: "40.000 😉",
-      percent: 0 / 100,
+      percent: 2 / 100,
     },
     {
       text: "1/2 người trước",
-      percent: 0 / 100,
+      percent: 2 / 100,
     },
     {
       text: "50.000 hoặc quay lại 😍",
-      percent: 0 / 100,
+      percent: 2 / 100,
     },
     {
       text: "100.000 🤲",
-      percent: 0 / 100,
+      percent: 1 / 100,
     },
     {
       text: "150.000",
