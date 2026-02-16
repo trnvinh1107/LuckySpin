@@ -12,11 +12,11 @@
   const listGift = [
     {
       text: "10.000 😘",
-      percent: 50 / 100,
+      percent: 25 / 100,
     },
     {
       text: "20.000 ✌🏻",
-      percent: 25 / 100,
+      percent: 50 / 100,
     },
     {
       text: "30.000 🥰",
