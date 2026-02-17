@@ -24,7 +24,7 @@
     },
     {
       text: "quay lại 🥳",
-      percent: 20 / 100,
+      percent: 10 / 100,
     },
     {
       text: "x2 số tuổi 🫣",
@@ -36,7 +36,7 @@
     },
     {
       text: "40.000 😉",
-      percent: 0 / 100,
+      percent: 10 / 100,
     },
     {
       text: "1/2 người trước",
@@ -44,7 +44,7 @@
     },
     {
       text: "50.000 hoặc quay lại 😍",
-      percent: 0 / 100,
+      percent: 20 / 100,
     },
     {
       text: "100.000 🤲",
@@ -52,11 +52,11 @@
     },
     {
       text: "150.000",
-      percent: 20 / 100,
+      percent: 10 / 100,
     },
     {
       text: "200.000 🌝",
-      percent: 20,
+      percent: 10 / 100,
     },
   ];
 
